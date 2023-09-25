@@ -1,7 +1,5 @@
 node_modules
-*.lock
 *.log
-*-lock.json
 dist
 build
 logs
