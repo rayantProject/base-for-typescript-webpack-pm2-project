@@ -48,7 +48,7 @@ export default (
             filename: output.filename,
         },
         plugins : [
-            new dotenv(),
+            new dotenv() as unknown as webpack.WebpackPluginInstance,
             new ForkTsCheckerWebpackPlugin(),
             new webpackShellPlugin({
                 onBuildStart : {
