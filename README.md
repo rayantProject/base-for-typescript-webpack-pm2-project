@@ -98,4 +98,4 @@ yarn commit
 
 ## Authors
 
--   [@rayantProjects](https://www.github.com/rayantProjects)
+-   [@rayantProject](https://www.github.com/rayantProject)
